@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.LogoEg{
+    width: 150px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+header nav ul li{
+    display: inline;   
+}
+
+nav ul{
+    margin-top: 50px;
+    margin-right: 20px;
+}
+nav ul li a{
+    padding-top: 200px;
+    border-radius: 2px;
+    background-color: greenyellow;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    border: solid 1px;
+    gap: 10px;
+}
